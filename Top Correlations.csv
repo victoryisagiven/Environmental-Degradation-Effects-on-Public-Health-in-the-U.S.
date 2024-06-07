@@ -1,0 +1,202 @@
+,,0
+Energy depletion,Natural resources depletion,0.998816095
+Mineral depletion,Net forest depletion,0.993532165
+Net forest depletion,Particulate emission damage,0.991061305
+Mineral depletion,Particulate emission damage,0.990758856
+Adult female mortality rate,Male Survival to age 65,0.983500254
+Life expectancy,Male Survival to age 65,0.980535164
+Adult female mortality rate,Infant mortality rate,0.979034597
+Life expectancy,Female Survival to age 65,0.977056339
+Adult female mortality rate,Adult male mortality rate,0.962504706
+Infant mortality rate,Male Survival to age 65,0.9579167
+Life expectancy,Adult female mortality rate,0.956023575
+Adult male mortality rate,Male Survival to age 65,0.94717433
+Life expectancy,Infant mortality rate,0.940469106
+Diabetes prevalence,Adult female mortality rate,0.93798801
+Female Survival to age 65,Male Survival to age 65,0.93389191
+Adult male mortality rate,Infant mortality rate,0.930584623
+Diabetes prevalence,Infant mortality rate,0.922804497
+Diabetes prevalence,Male Survival to age 65,0.920059724
+Adult female mortality rate,Female Survival to age 65,0.912571248
+Infant mortality rate,Female Survival to age 65,0.906492836
+Diabetes prevalence,Adult male mortality rate,0.903165265
+Life expectancy,Adult male mortality rate,0.902931039
+Diabetes prevalence,Life expectancy,0.862946013
+Adult male mortality rate,Female Survival to age 65,0.818086237
+Diabetes prevalence,Female Survival to age 65,0.816282342
+Fertility rate,Infant mortality rate,0.727104426
+Fertility rate,Female Survival to age 65,0.710747937
+Carbon dioxide damage,Mineral depletion,0.710650974
+Carbon dioxide damage,Female Survival to age 65,0.70138965
+Carbon dioxide damage,Particulate emission damage,0.693526667
+Carbon dioxide damage,Net forest depletion,0.687429235
+Death rate,Diabetes prevalence,0.678359888
+Death rate,Adult male mortality rate,0.676395324
+Fertility rate,Life expectancy,0.652910257
+Death rate,Adult female mortality rate,0.65224199
+Methane emissions,Nitrous oxide emissions,0.645415337
+Fertility rate,Adult female mortality rate,0.617952556
+Death rate,Male Survival to age 65,0.616555225
+Carbon dioxide damage,Life expectancy,0.608756401
+Annual freshwater withdrawals,Adult male mortality rate,0.596998032
+Carbon dioxide damage,Natural resources depletion,0.594978685
+Carbon dioxide damage,Energy depletion,0.594827335
+Death rate,Infant mortality rate,0.592115763
+Methane emissions,Male Survival to age 65,0.591153709
+CO2 emissions,Air pollution,0.577251925
+Annual freshwater withdrawals,Death rate,0.574972565
+Fertility rate,Male Survival to age 65,0.573632388
+Methane emissions,Female Survival to age 65,0.572575608
+"Mortality from CVD, cancer, diabetes or CRD",Air pollution,0.568376858
+Life expectancy,Methane emissions,0.563593693
+Diabetes prevalence,Methane emissions,0.563540912
+Mineral depletion,Annual freshwater withdrawals,0.55430849
+Adult male mortality rate,Air pollution,0.543915509
+Particulate emission damage,Annual freshwater withdrawals,0.54364321
+Life expectancy,Air pollution,0.53937758
+Methane emissions,Adult female mortality rate,0.537841873
+Diabetes prevalence,Fertility rate,0.526250818
+Death rate,Life expectancy,0.525615562
+Methane emissions,Greenhouse gas emissions,0.522897299
+Carbon dioxide damage,Male Survival to age 65,0.521687027
+Net forest depletion,Annual freshwater withdrawals,0.515530059
+Fertility rate,Adult male mortality rate,0.506749868
+Annual freshwater withdrawals,Infant mortality rate,0.504770852
+Methane emissions,Adult male mortality rate,0.503458465
+"Mortality from CVD, cancer, diabetes or CRD",Adult male mortality rate,0.502980006
+Net forest depletion,Fertility rate,0.500365979
+Fertility rate,Mortality rate attributed to air pollution,0.498431156
+Annual freshwater withdrawals,CO2 emissions,0.497129009
+Air pollution,Male Survival to age 65,0.494357952
+Water stress,"Mortality from CVD, cancer, diabetes or CRD",0.494011929
+Carbon dioxide damage,Infant mortality rate,0.488942094
+Infant mortality rate,Air pollution,0.484664516
+Particulate emission damage,Fertility rate,0.484299744
+Mineral depletion,Fertility rate,0.482610976
+Annual freshwater withdrawals,Diabetes prevalence,0.482378169
+Annual freshwater withdrawals,Adult female mortality rate,0.480250082
+Energy depletion,Water stress,0.477477795
+Carbon dioxide damage,Adult female mortality rate,0.476225018
+Methane emissions,Infant mortality rate,0.475412498
+Annual freshwater withdrawals,"Mortality from CVD, cancer, diabetes or CRD",0.47375763
+Water stress,Life expectancy,0.467346169
+Annual freshwater withdrawals,Male Survival to age 65,0.464724502
+Natural resources depletion,Water stress,0.462681853
+Net forest depletion,Female Survival to age 65,0.455565778
+Mineral depletion,Female Survival to age 65,0.453768207
+Energy depletion,Female Survival to age 65,0.452486095
+Adult female mortality rate,Air pollution,0.451436885
+Particulate emission damage,Death rate,0.450973584
+Carbon dioxide damage,Fertility rate,0.448297319
+Annual freshwater withdrawals,Air pollution,0.448200272
+Mineral depletion,Death rate,0.446782823
+CO2 emissions,Water stress,0.44606658
+Particulate emission damage,Female Survival to age 65,0.445802984
+Energy depletion,Life expectancy,0.445193612
+Natural resources depletion,Female Survival to age 65,0.442241399
+Air pollution,Female Survival to age 65,0.439083127
+Water stress,Female Survival to age 65,0.438399102
+Net forest depletion,Death rate,0.437421267
+Natural resources depletion,Life expectancy,0.435849545
+Water stress,Air pollution,0.434289282
+Male Survival to age 65,Greenhouse gas emissions,0.433528637
+Diabetes prevalence,Greenhouse gas emissions,0.426455806
+Natural resources depletion,"Mortality from CVD, cancer, diabetes or CRD",0.423165306
+Death rate,Female Survival to age 65,0.419603078
+Energy depletion,"Mortality from CVD, cancer, diabetes or CRD",0.410177566
+"Mortality from CVD, cancer, diabetes or CRD",Male Survival to age 65,0.407847913
+Energy depletion,Male Survival to age 65,0.405037317
+Life expectancy,Greenhouse gas emissions,0.404000062
+Mortality rate attributed to air pollution,Infant mortality rate,0.403670037
+Natural resources depletion,Male Survival to age 65,0.398783043
+Adult male mortality rate,Greenhouse gas emissions,0.39682693
+Annual freshwater withdrawals,Life expectancy,0.394918297
+Water stress,Male Survival to age 65,0.390302559
+Annual freshwater withdrawals,Water stress,0.389816247
+Net forest depletion,"Mortality from CVD, cancer, diabetes or CRD",0.384690882
+Adult female mortality rate,Greenhouse gas emissions,0.383105535
+Female Survival to age 65,Greenhouse gas emissions,0.38148218
+Carbon dioxide damage,Methane emissions,0.369433402
+CO2 emissions,"Mortality from CVD, cancer, diabetes or CRD",0.367284666
+Fertility rate,Air pollution,0.366778143
+Life expectancy,"Mortality from CVD, cancer, diabetes or CRD",0.366695694
+Infant mortality rate,Greenhouse gas emissions,0.365387084
+Carbon dioxide damage,Adult male mortality rate,0.36496517
+Carbon dioxide damage,Diabetes prevalence,0.362019519
+Mineral depletion,"Mortality from CVD, cancer, diabetes or CRD",0.359464695
+Water stress,Nitrous oxide emissions,0.348553207
+Mineral depletion,CO2 emissions,0.346489236
+Water stress,Adult male mortality rate,0.346272908
+"Mortality from CVD, cancer, diabetes or CRD",Adult female mortality rate,0.345953057
+Particulate emission damage,"Mortality from CVD, cancer, diabetes or CRD",0.344667665
+Energy depletion,Diabetes prevalence,0.341876433
+Death rate,Methane emissions,0.341730894
+Energy depletion,Mineral depletion,0.340118094
+Natural resources depletion,Diabetes prevalence,0.338259129
+Energy depletion,Methane emissions,0.337527726
+CO2 emissions,Methane emissions,0.336183147
+Mineral depletion,Natural resources depletion,0.331042813
+Water stress,Infant mortality rate,0.330892173
+Diabetes prevalence,Air pollution,0.330830315
+Net forest depletion,CO2 emissions,0.330637416
+Natural resources depletion,Air pollution,0.328539858
+Energy depletion,Particulate emission damage,0.326544865
+Energy depletion,Air pollution,0.32625481
+Natural resources depletion,Methane emissions,0.325857061
+Energy depletion,Infant mortality rate,0.323208461
+Energy depletion,Net forest depletion,0.322817393
+Water stress,Adult female mortality rate,0.322813595
+Fertility rate,Water stress,0.322297406
+Life expectancy,Nitrous oxide emissions,0.320648349
+Natural resources depletion,Infant mortality rate,0.315209422
+Energy depletion,Adult female mortality rate,0.314989855
+Natural resources depletion,Particulate emission damage,0.313747692
+Natural resources depletion,Adult female mortality rate,0.308991209
+Energy depletion,Adult male mortality rate,0.308981811
+Natural resources depletion,Net forest depletion,0.308792804
+Mortality rate attributed to air pollution,Adult female mortality rate,0.307008572
+Natural resources depletion,Adult male mortality rate,0.305853252
+Nitrous oxide emissions,Greenhouse gas emissions,0.30500361
+Mortality rate attributed to air pollution,Female Survival to age 65,0.303861333
+Water stress,Mortality rate attributed to air pollution,0.303779077
+Nitrous oxide emissions,Female Survival to age 65,0.303737111
+Nitrous oxide emissions,Male Survival to age 65,0.29682616
+Water stress,Methane emissions,0.295007839
+Diabetes prevalence,Mortality rate attributed to air pollution,0.28636451
+Mortality rate attributed to air pollution,Male Survival to age 65,0.286198509
+Death rate,Nitrous oxide emissions,0.284499988
+Net forest depletion,Life expectancy,0.277947136
+Particulate emission damage,CO2 emissions,0.27558392
+Mineral depletion,Life expectancy,0.275040604
+Life expectancy,Mortality rate attributed to air pollution,0.274840212
+Particulate emission damage,Life expectancy,0.274174207
+"Mortality from CVD, cancer, diabetes or CRD",Infant mortality rate,0.274087396
+Death rate,Greenhouse gas emissions,0.272012509
+Diabetes prevalence,"Mortality from CVD, cancer, diabetes or CRD",0.263128578
+Carbon dioxide damage,Water stress,0.261734115
+Carbon dioxide damage,Air pollution,0.254985333
+Methane emissions,Mortality rate attributed to air pollution,0.254428531
+Carbon dioxide damage,CO2 emissions,0.250812327
+Adult male mortality rate,Nitrous oxide emissions,0.249126986
+Adult female mortality rate,Nitrous oxide emissions,0.247874402
+Death rate,Fertility rate,0.247760433
+Particulate emission damage,Water stress,0.24388963
+Annual freshwater withdrawals,Female Survival to age 65,0.239608014
+"Mortality from CVD, cancer, diabetes or CRD",Female Survival to age 65,0.231000121
+Death rate,"Mortality from CVD, cancer, diabetes or CRD",0.230249954
+Annual freshwater withdrawals,Fertility rate,0.229905788
+Diabetes prevalence,Nitrous oxide emissions,0.221104953
+Mortality rate attributed to air pollution,Adult male mortality rate,0.218653529
+Net forest depletion,Methane emissions,0.216048808
+Diabetes prevalence,Water stress,0.214112813
+Carbon dioxide damage,Mortality rate attributed to air pollution,0.213634537
+Mineral depletion,Mortality rate attributed to air pollution,0.213170469
+Net forest depletion,Water stress,0.207915686
+Methane emissions,"Mortality from CVD, cancer, diabetes or CRD",0.205276474
+Annual freshwater withdrawals,Mortality rate attributed to air pollution,0.203062098
+Mineral depletion,Methane emissions,0.200576432
+Carbon dioxide damage,Annual freshwater withdrawals,0.200007092
+Fertility rate,"Mortality from CVD, cancer, diabetes or CRD",0.199523703
+Particulate emission damage,Methane emissions,0.198101092
+Mineral depletion,Water stress,0.197120138
+,,
