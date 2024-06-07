@@ -16,3 +16,5 @@ Death Rate: Significantly impacted by carbon dioxide damage, CO2 emissions, and 
 * Mortality from CVD, Cancer, Diabetes, or CRD: Strongly influenced by nitrous oxide emissions, water stress, and air pollution.
 
 In conclusion, the study highlights the urgent need for policymakers to implement stricter regulations on emissions and resource depletion to safeguard public health. Future research should aim to explore the combined effects of environmental and demographic factors on health outcomes, utilizing more sophisticated analytical techniques and comprehensive datasets.
+
+*For the full report see: Environmental Degradation Effects on Public Health in the U.S.*
